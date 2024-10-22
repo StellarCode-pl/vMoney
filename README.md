@@ -1,4 +1,4 @@
 # vMoney
-Wirtualny pieniądz!
+Tajny projekt
 
-# Już niedługo będzie dostępne więcej informacji o projektcie
+# Wkrótce więcej informacji!
